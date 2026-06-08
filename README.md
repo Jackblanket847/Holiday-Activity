@@ -10,6 +10,20 @@
 
 ## package URL: https://github.com/apple/foundation-models-utilities.
   
+  let package = Package(
+    name: "YourApp",
+    dependencies: [
+        .package(url: "https://github.com/apple/foundation-models-utilities", from: "1.0.0")
+    ],
+    targets: [
+        .target(
+            name: "YourApp",
+            dependencies: [
+                .product(name: "FoundationModelsUtilities", package: "foundation-models-utilities")
+            ]
+        )
+    ]
+)
      
 
 
