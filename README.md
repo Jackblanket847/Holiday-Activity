@@ -1,7 +1,18 @@
-# Holiday-Activity 
+# Holiday-Activity/
 
-  ## README
+  ## /READMEs
+      /Holiday-Activity
+       /.src
+        /README.md
+        /docs
+        /html
+        /about.md
+
+## package URL: https://github.com/apple/foundation-models-utilities.
   
+     
+
+
    • [!💡](/Holiday-Activity/.src)
      +/
      +
