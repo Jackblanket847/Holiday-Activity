@@ -10,6 +10,9 @@
 
 ## package URL: https://github.com/apple/foundation-models-utilities.
   
+'''
+# Package.swift
+
   let package = Package(
     name: "YourApp",
     dependencies: [
@@ -24,8 +27,7 @@
         )
     ]
 )
-     
-
+'''
 
    • [!💡](/Holiday-Activity/.src)
      +/
